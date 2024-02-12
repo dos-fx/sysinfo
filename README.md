@@ -2,7 +2,7 @@
 a windows neofetch clone written in batch. very unfinished and is just a misc project i wanted to do.
 <img align=right src="https://github.com/PixelNetNeon/batFetch/assets/75762177/1a83ae32-dd0d-4fb7-9774-56749a1f4efb" style="width:400px">
 ## But isn't there already a neofetch-clone for windows?
-Yes, I know about [Iptstr/winfetch](https://github.com/lptstr/winfetch), but i decided to try making my own in batchscript.
+Yes, I know about [Iptstr/winfetch](https://github.com/lptstr/winfetch), but i decided to try making my own in a batchfile.
 # Install
 ## Manually
 
