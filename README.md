@@ -10,3 +10,8 @@ a windows neofetch clone written in batch.
 2. Powershell (Windows 11 & Windows 10)
 
    placeholder.
+
+# Progress
+- [ ] PowerShell script **actually** works.
+- [ ] Other system info i could possibly retrieve.
+- [ ] ez install for windows 7 and below ig.
