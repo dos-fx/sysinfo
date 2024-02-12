@@ -13,7 +13,7 @@ Yes, I know about [Iptstr/winfetch](https://github.com/lptstr/winfetch), but i d
    ```
 
 # Progress
-- [ ] PowerShell script **actually** works.
+- [x] PowerShell script **actually** works.
 - [ ] Other system info i could possibly retrieve.
 - [ ] ez install for windows 7 and below ig.
 
