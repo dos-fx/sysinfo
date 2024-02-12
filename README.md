@@ -22,3 +22,4 @@ Yes, I know about [Iptstr/winfetch](https://github.com/lptstr/winfetch), but i d
 | Features | batFetch | neofetch |
 | --- | --- | --- |
 |  Custom Logo  | ❌ | ✔️ |
+*more comparisons to be added. just lazy atm*
