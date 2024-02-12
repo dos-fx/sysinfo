@@ -1,2 +1,4 @@
 echo placeholder
-Invoke-WebRequest $placeholder -OutFile c:\batfetch\batfetch.bat
+$url = https://raw.githubusercontent.com/PixelNetNeon/batFetch/main/batfetch.bat
+
+Invoke-WebRequest $url -OutFile c:\batfetch\batfetch.bat
